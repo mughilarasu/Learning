@@ -1,0 +1,461 @@
+{
+    "artists":[
+        {
+            "id": 1,
+            "first_name": "Dummy",
+            "last_name": "user_1",
+            "username": "dummy_user_1",
+            "gender": "Male",
+            "total_years_of_experience": "5",
+            "user_photo":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+            "is_verified": false,
+            "current_location": "Chennai",
+            "base_location": "Chennai",
+            "preferred_locations": [
+                {
+                    "location_id": "1",
+                    "location_name": "Chennai"
+                }
+            ],
+            "phone_no": 123456789,
+            "email": "dummy_user_1@gmail.com",
+            "password": "#@!$%^",
+            "performer_id": "#1",
+            "rank": "1",
+            "address": {
+                "street": "123",
+                "state": "Tamil Nadu",
+                "city": "Chennai",
+                "pincode": "000001"
+            },
+            "about": "i am singer",
+            "main_category": "singer",
+            "other_categories": [
+                {
+                    "category_id": "1",
+                    "category_name": "singer"
+                }
+            ],
+            "preferred_events": [
+                {
+                    "event_id": "1",
+                    "event_name": "wedding"
+                },
+                {
+                    "event_id": "2",
+                    "event_name": "Birthday"
+                },
+                {
+                    "event_id": "3",
+                    "event_name": "corporate"
+                }
+            ],
+            "native_language": "tamil",
+            "preferred_language": [
+                {
+                    "language_id": "2",
+                    "language_name": "english"
+                }
+            ],
+            "primary_equipment": "mike",
+            "preferred_equipments": [
+                {
+                    "equipment_id": "2",
+                    "equipment_name": "english"
+                }
+            ],
+            "performance_details": "",
+            "rate": {
+                "per_hour": "500"
+            },
+            "ratings": "4",
+            "reviews": [
+                {
+                    "reviewer_name": "",
+                    "reviewer_comments": ""
+                }
+            ],
+            "dates_booked": [
+                {
+                    "booking_id": 1,
+                    "dates": [
+                        {
+                            "from": "",
+                            "to": "",
+                            "event_id": "1",
+                            "event_name": "wedding",
+                            "notes": "",
+                            "price": ""
+                        }
+                    ]
+                }
+            ],
+            "dates_available": [
+                {
+                    "from": "",
+                    "to": ""
+                }
+            ],
+            "dates_conflicts": [
+                {
+                    "from": "",
+                    "to": ""
+                }
+            ],
+            "is_disable_reviews": false,
+            "is_user_blocked": false,
+            "user_issue_reports": [
+                {
+                    "name_of_user": "",
+                    "issue": ""
+                }
+            ],
+            "user_payment_details": [
+                {
+                    "bank_name": "",
+                    "ifsc_code": "",
+                    "upi_id": "",
+                    "branch_name": "",
+                    "account_number": ""
+                }
+            ],
+            "is_payment_verified": false,
+            "user_payment_transaction_history": [
+                {
+                    "transaction_id": "",
+                    "amount": "",
+                    "type_of_payment": "",
+                    "notes": "",
+                    "type_of_transaction": ""
+                }
+            ],
+            "photos": [
+                {
+                    "photo_id": "",
+                    "photo_name": "",
+                    "photo_caption": "",
+                    "photo_size": "",
+                    "photo_extension": "",
+                    "photo_captured_location": "",
+                    "photo_captured_event_name": ""
+                }
+            ],
+            "videos": [
+                {
+                    "video_id": "",
+                    "video_name": "",
+                    "video_caption": "",
+                    "video_size": "",
+                    "video_extension": "",
+                    "video_captured_location": "",
+                    "video_captured_event_name": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "first_name": "Dummy",
+            "last_name": "user_2",
+            "username": "dummy_user_2",
+            "gender": "Female",
+            "total_years_of_experience": "5",
+            "user_photo":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+            "is_verified": false,
+            "current_location": "Chennai",
+            "base_location": "Chennai",
+            "preferred_locations": [
+                {
+                    "location_id": "1",
+                    "location_name": "Chennai"
+                }
+            ],
+            "phone_no": 123456789,
+            "email": "dummy_user_2@gmail.com",
+            "password": "#@!$%^",
+            "performer_id": "#2",
+            "rank": "2",
+            "address": {
+                "street": "1234",
+                "state": "Tamil Nadu",
+                "city": "Chennai",
+                "pincode": "000001"
+            },
+            "about": "i am dancer",
+            "main_category": "dancer",
+            "other_categories": [
+                {
+                    "category_id": "1",
+                    "category_name": "dancer"
+                }
+            ],
+            "preferred_events": [
+                {
+                    "event_id": "1",
+                    "event_name": "wedding"
+                },
+                {
+                    "event_id": "2",
+                    "event_name": "Birthday"
+                },
+                {
+                    "event_id": "3",
+                    "event_name": "corporate"
+                }
+            ],
+            "native_language": "tamil",
+            "preferred_language": [
+                {
+                    "language_id": "2",
+                    "language_name": "english"
+                }
+            ],
+            "primary_equipment": "mike",
+            "preferred_equipments": [
+                {
+                    "equipment_id": "2",
+                    "equipment_name": "english"
+                }
+            ],
+            "performance_details": "",
+            "rate": {
+                "per_hour": "500"
+            },
+            "ratings": "4",
+            "reviews": [
+                {
+                    "reviewer_name": "",
+                    "reviewer_comments": ""
+                }
+            ],
+            "dates_booked": [
+                {
+                    "booking_id": 1,
+                    "dates": [
+                        {
+                            "from": "",
+                            "to": "",
+                            "event_id": "1",
+                            "event_name": "wedding",
+                            "notes": "",
+                            "price": ""
+                        }
+                    ]
+                }
+            ],
+            "dates_available": [
+                {
+                    "from": "",
+                    "to": ""
+                }
+            ],
+            "dates_conflicts": [
+                {
+                    "from": "",
+                    "to": ""
+                }
+            ],
+            "is_disable_reviews": false,
+            "is_user_blocked": false,
+            "user_issue_reports": [
+                {
+                    "name_of_user": "",
+                    "issue": ""
+                }
+            ],
+            "user_payment_details": [
+                {
+                    "bank_name": "",
+                    "ifsc_code": "",
+                    "upi_id": "",
+                    "branch_name": "",
+                    "account_number": ""
+                }
+            ],
+            "is_payment_verified": false,
+            "user_payment_transaction_history": [
+                {
+                    "transaction_id": "",
+                    "amount": "",
+                    "type_of_payment": "",
+                    "notes": "",
+                    "type_of_transaction": ""
+                }
+            ],
+            "photos": [
+                {
+                    "photo_id": "",
+                    "photo_name": "",
+                    "photo_caption": "",
+                    "photo_size": "",
+                    "photo_extension": "",
+                    "photo_captured_location": "",
+                    "photo_captured_event_name": ""
+                }
+            ],
+            "videos": [
+                {
+                    "video_id": "",
+                    "video_name": "",
+                    "video_caption": "",
+                    "video_size": "",
+                    "video_extension": "",
+                    "video_captured_location": "",
+                    "video_captured_event_name": ""
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "first_name": "Dummy",
+            "last_name": "user_3",
+            "username": "dummy_user_3",
+            "gender": "Female",
+            "total_years_of_experience": "5",
+            "user_photo":"https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+            "is_verified": false,
+            "current_location": "Chennai",
+            "base_location": "Chennai",
+            "preferred_locations": [
+                {
+                    "location_id": "1",
+                    "location_name": "Chennai"
+                }
+            ],
+            "phone_no": 123456789,
+            "email": "dummy_user_3@gmail.com",
+            "password": "#@!$%^",
+            "performer_id": "#2",
+            "rank": "2",
+            "address": {
+                "street": "12345",
+                "state": "Tamil Nadu",
+                "city": "Chennai",
+                "pincode": "000001"
+            },
+            "about": "i am dancer and singer",
+            "main_category": "dancer and singer",
+            "other_categories": [
+                {
+                    "category_id": "1",
+                    "category_name": "dancer and singer"
+                }
+            ],
+            "preferred_events": [
+                {
+                    "event_id": "1",
+                    "event_name": "wedding"
+                },
+                {
+                    "event_id": "2",
+                    "event_name": "Birthday"
+                },
+                {
+                    "event_id": "3",
+                    "event_name": "corporate"
+                }
+            ],
+            "native_language": "tamil",
+            "preferred_language": [
+                {
+                    "language_id": "2",
+                    "language_name": "english"
+                }
+            ],
+            "primary_equipment": "mike",
+            "preferred_equipments": [
+                {
+                    "equipment_id": "2",
+                    "equipment_name": "english"
+                }
+            ],
+            "performance_details": "",
+            "rate": {
+                "per_hour": "500"
+            },
+            "ratings": "4",
+            "reviews": [
+                {
+                    "reviewer_name": "",
+                    "reviewer_comments": ""
+                }
+            ],
+            "dates_booked": [
+                {
+                    "booking_id": 1,
+                    "dates": [
+                        {
+                            "from": "",
+                            "to": "",
+                            "event_id": "1",
+                            "event_name": "wedding",
+                            "notes": "",
+                            "price": ""
+                        }
+                    ]
+                }
+            ],
+            "dates_available": [
+                {
+                    "from": "",
+                    "to": ""
+                }
+            ],
+            "dates_conflicts": [
+                {
+                    "from": "",
+                    "to": ""
+                }
+            ],
+            "is_disable_reviews": false,
+            "is_user_blocked": false,
+            "user_issue_reports": [
+                {
+                    "name_of_user": "",
+                    "issue": ""
+                }
+            ],
+            "user_payment_details": [
+                {
+                    "bank_name": "",
+                    "ifsc_code": "",
+                    "upi_id": "",
+                    "branch_name": "",
+                    "account_number": ""
+                }
+            ],
+            "is_payment_verified": false,
+            "user_payment_transaction_history": [
+                {
+                    "transaction_id": "",
+                    "amount": "",
+                    "type_of_payment": "",
+                    "notes": "",
+                    "type_of_transaction": ""
+                }
+            ],
+            "photos": [
+                {
+                    "photo_id": "",
+                    "photo_name": "",
+                    "photo_caption": "",
+                    "photo_size": "",
+                    "photo_extension": "",
+                    "photo_captured_location": "",
+                    "photo_captured_event_name": ""
+                }
+            ],
+            "videos": [
+                {
+                    "video_id": "",
+                    "video_name": "",
+                    "video_caption": "",
+                    "video_size": "",
+                    "video_extension": "",
+                    "video_captured_location": "",
+                    "video_captured_event_name": ""
+                }
+            ]
+        }
+    ]
+}
+

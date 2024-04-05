@@ -1,1 +1,0 @@
-{"version":3,"file":"main.css","mappings":"AAAA,KACI,qBAEA,QACI,WAGJ,cAEI,YADA,WACA","sources":["webpack://webpack/./src/index.scss"],"sourcesContent":["body {\r\n    background-color: red;\r\n\r\n    h1 {\r\n        color: white\r\n    }\r\n\r\n    .imgHome {\r\n        width: 250px;\r\n        height: auto;\r\n    }\r\n}"],"names":[],"sourceRoot":""}

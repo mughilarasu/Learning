@@ -1,2 +1,3 @@
 # Learning
-This repository consists of all my learnings
+
+This repository consists of all my learnings.
